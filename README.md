@@ -4,7 +4,7 @@ do face detection from pc camera just as it is done on the show.
 To try it type the following on terminal
 * python cam.py
 or
-* python cam.py <target png file>
+* python cam.py <<target png file>>
 
 ## Requirements ##
 The following are required to run cam.py:
