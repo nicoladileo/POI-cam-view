@@ -10,3 +10,5 @@ The following are required to run cam.py:
 * Python 2.7.9
 * OpenCV library for python (from terminal apt-get install python-opencv)
 
+## TODO ##
+Add face recognition features in order to switch from different target file
